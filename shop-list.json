@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Протеиновый порошок",
+    "price": 2500,
+    "inStock": true,
+    "description": "Высококачественный сывороточный протеин для набора мышечной массы.",
+    "image": "protein_powder.png.webp",
+    "weight": "1 кг",
+    "flavor": "Шоколад"
+  },
+  {
+    "id": 2,
+    "name": "BCAA аминокислоты",
+    "price": 1800,
+    "inStock": true,
+    "description": "Комплекс аминокислот для восстановления и роста мышц.",
+    "image": "bcaa.jpg",
+    "weight": "500 г",
+    "flavor": "Лимон"
+  },
+  {
+    "id": 3,
+    "name": "Креатин моногидрат",
+    "price": 1200,
+    "inStock": false,
+    "description": "Чистый креатин для увеличения силы и выносливости.",
+    "image": "creatine.jpg",
+    "weight": "300 г",
+    "flavor": "Без вкуса"
+  },
+  {
+    "id": 4,
+    "name": "Гейнер для набора массы",
+    "price": 3200,
+    "inStock": true,
+    "description": "Высококалорийный гейнер для быстрого набора массы.",
+    "image": "gainer.png",
+    "weight": "2 кг",
+    "flavor": "Ваниль"
+  },
+  {
+    "id": 5,
+    "name": "Энергетический батончик",
+    "price": 150,
+    "inStock": true,
+    "description": "Батончик с высоким содержанием белка и углеводов для быстрого восстановления.",
+    "image": "energy_bar.png",
+    "weight": "50 г",
+    "flavor": "Карамель"
+  },
+  {
+    "id": 6,
+    "name": "Adrenalin",
+    "price": 150,
+    "inStock": true,
+    "description": "Газированный энергетический напиток с кофеином и таурином.",
+    "image": "Adrenalin.webp",
+    "weight": "500 мл",
+    "flavor": "Ягоды"
+  },
+  {
+    "id": 7,
+    "name": "Энергетик HQD",
+    "price": 100,
+    "inStock": true,
+    "description": "Энергетик для быстрого восстановления сил и бодрости.",
+    "image": "HQD.jpeg",
+    "weight": "500 мл",
+    "flavor": "Тропик"
+  },
+  {
+    "id": 8,
+    "name": "Энергетик Gorilla",
+    "price": 90,
+    "inStock": false,
+    "description": "Мощный энергетик с гуараной и витаминами группы B.",
+    "image": "gorilla.jpg",
+    "weight": "330 мл",
+    "flavor": "Драгонфрут-ананас"
+  }
+]
